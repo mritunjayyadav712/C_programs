@@ -1,3 +1,6 @@
+/*Question - Write a program to calculate the area of triangle using formula at=√s(s-
+a)(s-b)(s-c)           */
+
 #include <stdio.h>
 #include <math.h>
 
